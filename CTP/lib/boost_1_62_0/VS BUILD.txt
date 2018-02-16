@@ -1,0 +1,8 @@
+
+1) .\bootstrap.bat
+
+2) .\b2
+
+3) .\bjam
+
+4) config in VS studio, see VS Config.PNG in the same directory
